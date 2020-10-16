@@ -1,7 +1,18 @@
-# ReinforcementLearningUA
-Capstone Project of the Coursera Specialization "Reinforcement Learning" from the University of Alberta
+## ReinforcementLearningUA
+# Capstone Project of the Coursera Specialization "Reinforcement Learning" from the University of Alberta
 
-Topics being covered in the Specialization:
-\begin{enumerate}
-\item Hallo
-\end{enumerate}
+Topics being covered in the Specialization (following "Reinforcement Learning by Suton and Barto"):
+  - MDP, Value Functions, Bellman Equations, Dynamic Programming, Monte-Carlo Estimation
+  - On-policy Prediction, Control with Approximation, Policy Gradient
+  - Temporal Difference and Monte Carlo Learning methods
+  
+After this challenging specialization I could gain a good understanding of RL methods, their differences and their implementation aspects.
+
+The capstone project consisted of implementing the whole RL-cycle (Environment: States/Rewards, Agent: NeuralNetwork/AdamAlgorithm, Softmax Action selection and expected SARSA) to solve a simulated lunar landing mission with reinforcement learning.
+
+This is the visualization of my soltution:
+##First couple of episodes:
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipxqq"></iframe></div><p><a href="https://imgflip.com/gif/4ipxqq">via Imgflip</a></p></div>
+
+##Last couple of episodes
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipxyx"></iframe></div><p><a href="https://imgflip.com/gif/4ipxyx">via Imgflip</a></p></div>
