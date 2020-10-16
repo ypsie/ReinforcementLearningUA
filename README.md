@@ -13,7 +13,7 @@ The capstone project consisted of implementing the whole RL-cycle (Environment: 
 This is the visualization of my soltution:
 
 ##First couple of episodes:
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipz5e"></iframe></div><p><a href="https://imgflip.com/gif/4ipz5e">via Imgflip</a></p></div>
+![0_50](https://user-images.githubusercontent.com/71444220/96255143-b7f9d480-0fb6-11eb-907e-7db90efa7073.gif)
 
 ##Last couple of episodes
 <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipxyx"></iframe></div><p><a href="https://imgflip.com/gif/4ipxyx">via Imgflip</a></p></div>
