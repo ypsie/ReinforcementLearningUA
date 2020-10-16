@@ -11,8 +11,9 @@ After this challenging specialization I could gain a good understanding of RL me
 The capstone project consisted of implementing the whole RL-cycle (Environment: States/Rewards, Agent: NeuralNetwork/AdamAlgorithm, Softmax Action selection and expected SARSA) to solve a simulated lunar landing mission with reinforcement learning.
 
 This is the visualization of my soltution:
+
 ##First couple of episodes:
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipxqq"></iframe></div><p><a href="https://imgflip.com/gif/4ipxqq">via Imgflip</a></p></div>
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipz5e"></iframe></div><p><a href="https://imgflip.com/gif/4ipz5e">via Imgflip</a></p></div>
 
 ##Last couple of episodes
 <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4ipxyx"></iframe></div><p><a href="https://imgflip.com/gif/4ipxyx">via Imgflip</a></p></div>
